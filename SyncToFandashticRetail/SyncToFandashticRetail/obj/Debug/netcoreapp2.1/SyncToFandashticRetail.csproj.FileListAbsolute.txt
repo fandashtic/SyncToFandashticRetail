@@ -1,0 +1,11 @@
+D:\Manickam\fandashtic\eCom\SyncToFandashticRetail\SyncToFandashticRetail\bin\Debug\netcoreapp2.1\SyncToFandashticRetail.deps.json
+D:\Manickam\fandashtic\eCom\SyncToFandashticRetail\SyncToFandashticRetail\bin\Debug\netcoreapp2.1\SyncToFandashticRetail.runtimeconfig.json
+D:\Manickam\fandashtic\eCom\SyncToFandashticRetail\SyncToFandashticRetail\bin\Debug\netcoreapp2.1\SyncToFandashticRetail.runtimeconfig.dev.json
+D:\Manickam\fandashtic\eCom\SyncToFandashticRetail\SyncToFandashticRetail\bin\Debug\netcoreapp2.1\SyncToFandashticRetail.dll
+D:\Manickam\fandashtic\eCom\SyncToFandashticRetail\SyncToFandashticRetail\bin\Debug\netcoreapp2.1\SyncToFandashticRetail.pdb
+D:\Manickam\fandashtic\eCom\SyncToFandashticRetail\SyncToFandashticRetail\obj\Debug\netcoreapp2.1\SyncToFandashticRetail.csprojAssemblyReference.cache
+D:\Manickam\fandashtic\eCom\SyncToFandashticRetail\SyncToFandashticRetail\obj\Debug\netcoreapp2.1\SyncToFandashticRetail.csproj.CoreCompileInputs.cache
+D:\Manickam\fandashtic\eCom\SyncToFandashticRetail\SyncToFandashticRetail\obj\Debug\netcoreapp2.1\SyncToFandashticRetail.AssemblyInfoInputs.cache
+D:\Manickam\fandashtic\eCom\SyncToFandashticRetail\SyncToFandashticRetail\obj\Debug\netcoreapp2.1\SyncToFandashticRetail.AssemblyInfo.cs
+D:\Manickam\fandashtic\eCom\SyncToFandashticRetail\SyncToFandashticRetail\obj\Debug\netcoreapp2.1\SyncToFandashticRetail.dll
+D:\Manickam\fandashtic\eCom\SyncToFandashticRetail\SyncToFandashticRetail\obj\Debug\netcoreapp2.1\SyncToFandashticRetail.pdb
